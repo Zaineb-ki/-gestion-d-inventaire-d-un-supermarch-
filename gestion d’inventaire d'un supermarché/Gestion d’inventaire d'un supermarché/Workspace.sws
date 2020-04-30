@@ -5,9 +5,9 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{BCBC70F8-B6B4-4AA8-87B1-DB28B3D70D03}" Loaded="No" Name="Gestion d’inventaire d&#39;un supermarché" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="Gestion d’inventaire d&#39;un supermarché.prj"/>
-		<Model ID="{6589BF00-D565-43F5-9DF0-442B1FEA94C1}" Name="Use Case" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Use Case.oom"/>
-		<Model ID="{39E59194-CCA7-4B20-BF2F-EC4E9AC96FF9}" Name="UML Activity Diagram" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="UML Activity Diagram.oom"/>
-		<Model Expanded="Yes" ID="{72248148-D76A-42EF-9DE9-4A7DB1FA0F23}" Name="UML Sequence Diagram_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="UML Sequence Diagram.oom"/>
+		<Model ID="{6589BF00-D565-43F5-9DF0-442B1FEA94C1}" Loaded="No" Name="Use Case" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Use Case.oom"/>
+		<Model ID="{39E59194-CCA7-4B20-BF2F-EC4E9AC96FF9}" Loaded="No" Name="UML Activity Diagram" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="UML Activity Diagram.oom"/>
+		<Model Expanded="Yes" ID="{72248148-D76A-42EF-9DE9-4A7DB1FA0F23}" Loaded="No" Name="UML Sequence Diagram_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="UML Sequence Diagram.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
